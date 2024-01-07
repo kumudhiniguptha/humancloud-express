@@ -6,6 +6,6 @@ Established a seamless connection between the frontend and Express.js backend, a
 
 2. JWT Authentication using Express.
 
-Token Creation: Express generates a JWT containing user details during login.
-Middleware Check: JWT middleware in Express verifies tokens for subsequent requests.
-Stateless Security: Enhances security via stateless, token-based communication without session storage
+Express generates a JWT containing user details during login.
+JWT middleware in Express verifies tokens for subsequent requests.
+Enhances security via stateless, token-based communication without session storage
